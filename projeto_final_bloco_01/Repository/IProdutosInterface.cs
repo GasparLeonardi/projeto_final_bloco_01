@@ -14,7 +14,6 @@ namespace projeto_final_bloco_01.Repository
         public void ListarProdutoCodigo(int codigo);
         public void AtualizarProdutoCodigo(Produtos produtos);
         public void RemoverProdutoCodigo(int codigo);
-
         //Beta 
         public void ListarProdutosTags(string tags);
     }

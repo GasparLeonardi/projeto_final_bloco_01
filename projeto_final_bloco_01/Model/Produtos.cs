@@ -66,7 +66,7 @@ namespace projeto_final_bloco_01.Model
                     categoria = "Casa & Móveis";
                     break;
                 case 3:
-                    categoria = "Saúde/Cosméticos";
+                    categoria = "Saúde, Cosméticos e Consumíveis";
                     break;
             }
             Console.WriteLine("************************************************");
