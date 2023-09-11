@@ -69,6 +69,8 @@
                         Console.ForegroundColor = ConsoleColor.Black;
 
                         Console.WriteLine("\nCadastrar um novo produto:\n");
+
+
                         break;
                     case 02:
                         Console.ResetColor();
@@ -76,6 +78,8 @@
                         Console.ForegroundColor = ConsoleColor.Black;
 
                         Console.WriteLine("\nListar todos os produtos:\n");
+
+
                         break;
                     case 03:
                         Console.ResetColor();
@@ -83,6 +87,8 @@
                         Console.ForegroundColor = ConsoleColor.Black;
 
                         Console.WriteLine("\nBuscar produto pelo código: \n");
+
+
                         break;
                     case 04:
                         Console.ResetColor();
@@ -90,6 +96,8 @@
                         Console.ForegroundColor = ConsoleColor.Black;
 
                         Console.WriteLine("\nAtualizar produto pelo código: \n");
+
+
                         break;
                     case 05:
                         Console.ResetColor();
@@ -97,6 +105,8 @@
                         Console.ForegroundColor = ConsoleColor.Black;
 
                         Console.WriteLine("\nRemover produto: \n");
+
+
                         break;
                     case 06:
                         Console.ResetColor();
@@ -104,6 +114,8 @@
                         Console.ForegroundColor = ConsoleColor.Black;
 
                         Console.WriteLine("\nBuscar produto pelas tags: \n");
+
+
                         break;
                     default:
                         Console.ResetColor();
